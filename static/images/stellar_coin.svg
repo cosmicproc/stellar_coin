@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="120mm" height="120mm" version="1.1" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter3" x="-.34818" y="-.34818" width="1.6964" height="1.6964" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.2120901"/>
+  </filter>
+ </defs>
+ <g transform="translate(-42.276 -17.415)">
+  <g transform="translate(-12.66 -14.667)">
+   <g stroke-width="1.0001">
+    <circle cx="98.673" cy="97.468" r="24.857" fill="#ecac34" filter="url(#filter3)" style="paint-order:fill markers stroke"/>
+    <path d="m95.811 71.708s4.952-34.076 15.999-30.72c8.8829 2.6987-10.859 22.663-3.0504 27.684 13.182 8.4756 30.072-35.885 40.38-24.08 9.9648 11.412-35.982 22.47-28.326 35.543 8.8958 15.189 52.171-33.849 52.119-8.5019-0.0354 17.149-46.998 5.3295-46.067 22.375 0.89482 16.392 49.222 0.39873 46.378 16.566-2.8366 16.123-41.899-14.953-49.111-0.25673-5.8888 12.001 34.604 22.606 24.706 31.591-10.467 9.5019-30.732-29.225-30.732-29.225z" fill="#ec8a34" style="paint-order:fill markers stroke"/>
+    <circle cx="98.673" cy="97.468" r="24.857" fill="#ecac34" style="paint-order:fill markers stroke"/>
+   </g>
+   <circle cx="88.084" cy="105.9" r="11.245" fill="#ecca34" stroke-width=".45244" style="paint-order:fill markers stroke"/>
+  </g>
+ </g>
+</svg>
