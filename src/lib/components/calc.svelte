@@ -13,7 +13,7 @@
 		class="border-4 border-neutral-400 dark:border-neutral-600 rounded-3xl shadow-lg px-2 py-10 lg:px-10"
 	>
 		<div class="flex justify-center">
-			<div class="text-center mb-4 w-96">
+			<div class="text-center mb-4 w-80 sm:w-96">
 				<h1 class="font-bold text-4xl mb-4">{config.appName}</h1>
 				<p class="text-lg">{config.appDescription}</p>
 			</div>
