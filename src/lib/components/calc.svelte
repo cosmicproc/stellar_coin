@@ -8,12 +8,12 @@
 	$: result = Math.floor(calcResult(...$valuesList) * 10000) / 10000 || 0;
 </script>
 
-<div class="m-auto my-10 lg:flex relative overflow-auto lg:overflow-visible max-w-[90%]">
+<div class="m-auto my-10 lg:flex relative overflow-auto lg:overflow-visible">
 	<div
 		class="border-4 border-neutral-400 dark:border-neutral-600 rounded-3xl shadow-lg px-2 py-10 lg:px-10"
 	>
 		<div class="flex justify-center">
-			<div class="text-center mb-4 w-3/4">
+			<div class="text-center mb-4 w-96">
 				<h1 class="font-bold text-4xl mb-4">{config.appName}</h1>
 				<p class="text-lg">{config.appDescription}</p>
 			</div>
