@@ -3,7 +3,7 @@
 Stellar Coin is a flexible parameter-based web calculator system. It can be used to build any type of parameter-based calculators.
 That is, any type of calculator that takes same parameters from the user and calculates a result. Most prominent example is price calculators.
 
-## Why
+## Why
 I created it to use for a simple price calculator. Decided to make it generic and open source. Don't expect it to be complete.
 
 ## Usage
